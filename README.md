@@ -12,3 +12,5 @@
   <img aligm="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img aligm="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeYunoki&layout=compact)](https://github.com/FelipeYunoki/github-readme-stats)
