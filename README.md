@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![FelipeYunoki GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![FelipeYunoki GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeYunoki&show_icons=true&theme=radical)
