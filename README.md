@@ -9,4 +9,4 @@
   <img aligm="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
 
-![Snake Animation](https://github.com/FelipeYunoki/FelipeYunoki/blob/output/github-contribution-grid-snake.svg)
+
