@@ -1,4 +1,4 @@
-#Olá, sou Felipe
+## Olá, sou Felipe
 ## Tecnologia que uso no meu dia
 <div style="display:inline-block"></br>
   <img aligm="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
