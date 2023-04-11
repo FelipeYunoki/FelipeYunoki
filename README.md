@@ -1,8 +1,5 @@
 ## Tecnologia que uso no meu dia
-<div style="display:inline-block"></br>
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <img aligm="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">        
+<div style="display:inline-block"></br>        
   <img aligm="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img aligm="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img aligm="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
