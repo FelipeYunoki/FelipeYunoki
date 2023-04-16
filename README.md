@@ -1,6 +1,5 @@
 ## Tecnologia que uso no meu dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeYunoki&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display:inline-block"></br>        
   <img aligm="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
