@@ -3,7 +3,7 @@ Técnico em Desenvolvimento de Sistema
 
 Front-End
 <div style="display:inline-block">
-  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="margin-right: 10px;"/>
+  <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="margin-right: 100px;"/>
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="margin-right: 10px;"/>
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="margin-right: 10px;"/>
   <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
